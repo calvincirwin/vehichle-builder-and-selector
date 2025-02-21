@@ -13,4 +13,8 @@ interface Driveable {
 }
 
 // export the Driveable interface
+<<<<<<< HEAD
 export default Driveable;
+=======
+export default Driveable;
+>>>>>>> origin/main
