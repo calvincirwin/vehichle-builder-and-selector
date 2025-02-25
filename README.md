@@ -6,7 +6,7 @@ This is a command-line application that allows users to create, select, and inte
 This project was built using **TypeScript** and the **Inquirer package** to collect user input in the terminal.
 
 ## Walkthrough Video
-[Click here to watch the walkthrough video](INSERT_VIDEO_LINK_HERE)
+[Vehicle build](https://youtu.be/Tju7mgDLMNU?si=mO5A3iQTE1SSJ2YA)
 
 ## Project Structure
 ```
